@@ -1,0 +1,6 @@
+from datasets import load_dataset
+
+dataset = load_dataset("shawhin/imdb-truncated")
+
+
+// Dataset url : https://huggingface.co/datasets/shawhin/imdb-truncated
